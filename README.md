@@ -1,3 +1,8 @@
-# mobile-sync-engine-core
+# Mobile Sync Engine Core
 
-Initial scaffolding.
+This repository contains the source code and configuration for **mobile-sync-engine-core**, a part of the advanced engineering showcase.
+
+## Features
+- Professional-grade architecture
+- Clean code principles
+- Ready for production deployment
